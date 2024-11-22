@@ -2,10 +2,10 @@
 
 USB QMK-compatible PCB for the Siemens 10453443 / KBA-D2911
 
-![2b5b1c4b-f160-424f-aae0-397b622dffc3](https://github.com/taylorswift22/dimension1800/assets/22061508/94618f5a-42b8-4fdb-9834-e0e18c50c6fb)
+![overall](https://github.com/nearestexit/dimension1800/blob/main/Pictures/overall.jpg)
 
 
-![3cb45aca-eae0-463b-8944-8dda7efd8b32](https://github.com/taylorswift22/dimension1800/assets/22061508/71a17680-3ffc-4d7b-a1c8-498d9a055146)
+![PCB](https://github.com/nearestexit/dimension1800/blob/main/Pictures/PCB.png)
 
 
 
@@ -25,16 +25,16 @@ My keyboard is a KBA-D2911**C** with a 7u PBT spacebar with nonstandard stabiliz
 
 In order for the USB-C port on the elite-pi to be accessible, you must solder the elite-pi away from the PCB like this:
 
-![4c59b271-36fa-4435-825e-fdf1b599cb85](https://github.com/taylorswift22/dimension1800/assets/22061508/59aac260-b7fb-40bb-861b-f0a2050d8f03)
+![elitepi](https://github.com/nearestexit/dimension1800/blob/main/Pictures/elitepi.jpg)
 
-![0a84e36f-0fb4-41b7-b86e-02bf23a067df](https://github.com/taylorswift22/dimension1800/assets/22061508/2536a478-6459-40cd-ad8a-e2adde88e59c)
+![usb](https://github.com/nearestexit/dimension1800/blob/main/Pictures/usb.jpg)
 
 
 ## Arrow key position
 
 On my prototype, the arrow keys appeared to be slightly too far up and to the right.
 
-![71f76bc1-6a32-4076-b67d-1b09a6f14d8f](https://github.com/taylorswift22/dimension1800/assets/22061508/1110efcc-c52a-4e95-ab7d-250c085c12c9)
+![arrows](https://github.com/nearestexit/dimension1800/blob/main/Pictures/arrows.png)
 
 
 I have moved the arrow keys down and to the left by 0.25mm in the current version.
