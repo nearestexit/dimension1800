@@ -29,6 +29,10 @@ In order for the USB-C port on the elite-pi to be accessible, you must solder th
 
 ![usb](https://github.com/nearestexit/dimension1800/blob/main/Pictures/usb.jpg)
 
+You **MUST EXPOSE D10 and D11 on  the elite-pi!** If you do not, Columns 2 and 3 will be shorted to ground.
+Follow the instructions in the [Elite-Pi documentation](https://docs.keeb.io/elite-pi-guide)
+
+![D10 and D11](https://github.com/nearestexit/dimension1800/blob/main/Pictures/elitepi.png)
 
 ## Arrow key position
 
@@ -44,7 +48,7 @@ To order, navigate to dimension-PCB/jlcpcb/production_files and copy what you ne
 I have 4 prototypes with the slightly misaligned arrow keys. You can contact me on discord if you wish to purchase one for free + the cost of shipping.
 
 ## Firmware
-Coming soon.
+Source files to compile your own QMK firmware are provided in the firmware directory. This will require a QMK build environment. If you want to jump right in to using Vial, a [Vial](https://get.vial.today)-compatible .uf2 hex is provided which can be flashed to your keyboard with QMK toolbox and modified from [Vial.rocks](https://vial.rocks)
 
 
 
